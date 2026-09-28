@@ -1,0 +1,6 @@
+{
+  "name": "BloodBridge - Smart Blood Availability & Emergency Coordination",
+  "description": "Smart Blood Availability & Emergency Coordination Platform connecting hospitals, blood banks, and donors with deterministic compatibility matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
